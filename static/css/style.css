@@ -1,0 +1,21 @@
+body{
+    font-family: 'Signika', sans-serif;
+    background: blueviolet;
+    color: #343a40;
+}
+.container{
+    background: beige;
+    text-align: left;
+    margin: 30px auto;
+    padding: 20px;
+    width: 400px;
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+}
+h4{
+    font-style: italic;
+}
+h2{
+    text-align: center;
+}
